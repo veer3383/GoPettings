@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345321970377",
+    "project_id": "gopettcart"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345321970377:android:1d166b9ccbb38b27",
+        "android_client_info": {
+          "package_name": "gopetting.assignment.com.cartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345321970377-3fs8obgnk8lj5t7su9mrf3lm60d48l3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gopetting.assignment.com.cartapp",
+            "certificate_hash": "efbc8a406c93e13c279a33fb589b93d1b80e3903"
+          }
+        },
+        {
+          "client_id": "345321970377-dd3r1t15raf7srenn9ddndij9mb13cpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH33--i0BE5crv2DBx4QpHILxR8LCwius"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
